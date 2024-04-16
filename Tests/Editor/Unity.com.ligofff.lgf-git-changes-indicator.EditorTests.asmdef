@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.ligofff.lgf-git-changes-indicator.Editor.Tests",
+  "references": [
+    "Unity.com.ligofff.lgf-git-changes-indicator"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
